@@ -1,3 +1,3 @@
-def add(a,b,sum):
-  sum = a+b;
-print(sum)
+def add():
+    print(sum)
+add()
